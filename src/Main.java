@@ -7,10 +7,10 @@ public class Main {
 		
 		Bluetooth miBluetooth=new Bluetooth(miPhone);
 		miBluetooth.Connect();
-		GPS miGPS=new GPS(miBluetooth);
+		GPS miGPS=new GPS(miPhone);
 		miGPS.Location="MiPhone的定位成功";
 		System.out.println(miGPS.Location);
-		Camera miCamera=new Camera(miGPS);
+		Camera miCamera=new Camera(miPhone);
 		miCamera.VideoCall();
 		
 		Bluetooth iBluetooth=new Bluetooth(iphone);
