@@ -1,8 +1,8 @@
-public class Decarator extends MobilePhone{
+public class Decorator extends MobilePhone{
 
 	private MobilePhone _mobilePhone;
 	
-	public Decarator(MobilePhone mobilePhone){
+	public Decorator(MobilePhone mobilePhone){
 		_mobilePhone=mobilePhone;
 		phoneName=mobilePhone.phoneName;
 	}

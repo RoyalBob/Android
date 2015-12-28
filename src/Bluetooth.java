@@ -1,4 +1,4 @@
-public class Bluetooth extends Decarator{
+public class Bluetooth extends Decorator{
 
 	public Bluetooth(MobilePhone mobilePhone) {
 		super(mobilePhone);

@@ -1,4 +1,4 @@
-public class Camera extends Decarator{
+public class Camera extends Decorator{
 
 	public Camera(MobilePhone mobilePhone) {
 		super(mobilePhone);

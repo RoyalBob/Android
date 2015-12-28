@@ -1,4 +1,4 @@
-public class GPS extends Decarator{
+public class GPS extends Decorator{
 
 	public GPS(MobilePhone mobilePhone) {
 		super(mobilePhone);
