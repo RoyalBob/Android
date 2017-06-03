@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+ <CityWeatherResponse>
+  <error>0</error> 
+  <status>success</status> 
+  <date>2015-05-14</date> 
+ <results>
+  <currentCity>ningbo</currentCity> 
+ <weather_data>
+  <date>周四 05月14日 (实时：22℃)</date> 
+  <dayPictureUrl>http://api.map.baidu.com/images/weather/day/zhenyu.png</dayPictureUrl> 
+  <nightPictureUrl>http://api.map.baidu.com/images/weather/night/zhenyu.png</nightPictureUrl> 
+  <weather>阵雨</weather> 
+  <wind>南风微风</wind> 
+  <temperature>21℃</temperature> 
+  <date>周五</date> 
+  <dayPictureUrl>http://api.map.baidu.com/images/weather/day/zhongyu.png</dayPictureUrl> 
+  <nightPictureUrl>http://api.map.baidu.com/images/weather/night/dayu.png</nightPictureUrl> 
+  <weather>中雨转大雨</weather> 
+  <wind>西南风微风</wind> 
+  <temperature>28 ~ 18℃</temperature> 
+  <date>周六</date> 
+  <dayPictureUrl>http://api.map.baidu.com/images/weather/day/zhongyu.png</dayPictureUrl> 
+  <nightPictureUrl>http://api.map.baidu.com/images/weather/night/yin.png</nightPictureUrl> 
+  <weather>中雨转阴</weather> 
+  <wind>东北风微风</wind> 
+  <temperature>23 ~ 15℃</temperature> 
+  <date>周日</date> 
+  <dayPictureUrl>http://api.map.baidu.com/images/weather/day/duoyun.png</dayPictureUrl> 
+  <nightPictureUrl>http://api.map.baidu.com/images/weather/night/yin.png</nightPictureUrl> 
+  <weather>多云转阴</weather> 
+  <wind>东南风微风</wind> 
+  <temperature>25 ~ 17℃</temperature> 
+  </weather_data>
+ <index>
+  <title>穿衣</title> 
+  <zs>热</zs> 
+  <tipt>穿衣指数</tipt> 
+  <des>天气热，建议着短裙、短裤、短薄外套、T恤等夏季服装。</des> 
+  <title>洗车</title> 
+  <zs>不宜</zs> 
+  <tipt>洗车指数</tipt> 
+  <des>不宜洗车，未来24小时内有雨，如果在此期间洗车，雨水和路上的泥水可能会再次弄脏您的爱车。</des> 
+  <title>旅游</title> 
+  <zs>一般</zs> 
+  <tipt>旅游指数</tipt> 
+  <des>温度适宜，有微风同行，但较强降雨的天气将给您的出行带来很多的不便，若坚持旅行建议带上雨具。</des> 
+  <title>感冒</title> 
+  <zs>较易发</zs> 
+  <tipt>感冒指数</tipt> 
+  <des>天气转凉，空气湿度较大，较易发生感冒，体质较弱的朋友请注意适当防护。</des> 
+  <title>运动</title> 
+  <zs>较不宜</zs> 
+  <tipt>运动指数</tipt> 
+  <des>有较强降水，建议您选择在室内进行健身休闲运动。</des> 
+  <title>紫外线强度</title> 
+  <zs>弱</zs> 
+  <tipt>紫外线强度指数</tipt> 
+  <des>紫外线强度较弱，建议出门前涂擦SPF在12-15之间、PA+的防晒护肤品。</des> 
+  </index>
+  <pm25>46</pm25> 
+  </results>
+  </CityWeatherResponse>

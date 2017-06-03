@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DormitoryApp.iml" filepath="$PROJECT_DIR$/DormitoryApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloCharts/HelloCharts.iml" filepath="$PROJECT_DIR$/HelloCharts/HelloCharts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDrawer/LDrawer.iml" filepath="$PROJECT_DIR$/LDrawer/LDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialDialog/MaterialDialog.iml" filepath="$PROJECT_DIR$/MaterialDialog/MaterialDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRipple/MaterialRipple.iml" filepath="$PROJECT_DIR$/MaterialRipple/MaterialRipple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileDormitory/MobileDormitory.iml" filepath="$PROJECT_DIR$/MobileDormitory/MobileDormitory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessButton/ProcessButton.iml" filepath="$PROJECT_DIR$/ProcessButton/ProcessButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressWheel/ProgressWheel.iml" filepath="$PROJECT_DIR$/ProgressWheel/ProgressWheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sweetalert/Sweetalert.iml" filepath="$PROJECT_DIR$/Sweetalert/Sweetalert.iml" />
+    </modules>
+  </component>
+</project>

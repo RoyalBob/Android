@@ -1,0 +1,7 @@
+#Sat Mar 18 13:49:50 CST 2017
+base.0=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f7464a8fc236c95c1653ac9cb1b3825423b621ac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f601cfb22c633d7bb099f6f32e3474ea36eb5d4a\\classes.dex
+base.1=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f601cfb22c633d7bb099f6f32e3474ea36eb5d4a
+file.0=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f7464a8fc236c95c1653ac9cb1b3825423b621ac\\classes.dex

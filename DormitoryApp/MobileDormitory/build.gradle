@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '25.0.0'
+    //useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.hyg.mobiledormitory"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/android-async-http-1.4.5.jar')
+    compile project(':ProcessButton')
+    compile project(':Sweetalert')
+    compile project(':MaterialRipple')
+    compile project(':PagerSlidingTabStrip')
+    compile project(':HelloCharts')
+    compile project(':LDrawer')
+    compile project(':MaterialDialog')
+    compile 'com.android.support:appcompat-v7:22.1.1'
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android\\AndroidStudioWorkSpace\\DormitoryApp\\MobileDormitory\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Android\\AndroidStudioWorkSpace\\DormitoryApp\\MobileDormitory\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioWorkSpace\\DormitoryApp\\MobileDormitory\\build\\intermediates\\res\\merged\\debug\\menu\\menu_room.xml",
+        "source": "C:\\Android\\AndroidStudioWorkSpace\\DormitoryApp\\MobileDormitory\\src\\main\\res\\menu\\menu_room.xml"
+    },
+    {
+        "merged": "D:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\finalwork\\DormitoryApp\\MobileDormitory\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\res\\merged\\debug\\menu\\menu_room.xml",
+        "source": "D:\\finalwork\\DormitoryApp\\MobileDormitory\\src\\main\\res\\menu\\menu_room.xml"
+    }
+]

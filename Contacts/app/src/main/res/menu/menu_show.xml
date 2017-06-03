@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ShowContacts">
+
+    <item
+        android:id="@+id/action_edit"
+        android:title="@string/menu_edit"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_del"
+        android:title="@string/menu_del"
+        app:showAsAction="never"/>
+</menu>

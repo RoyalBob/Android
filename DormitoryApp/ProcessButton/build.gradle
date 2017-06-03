@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+
+repositories {
+    jcenter()
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 21
+
+    }
+}
+
+dependencies {
+    provided 'com.android.support:support-v4:21.0.3'
+}
+
+

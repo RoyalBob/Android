@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/main_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?colorPrimary"
+
+        >
+
+    </android.support.v7.widget.Toolbar>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+
+
+    </android.support.v4.view.ViewPager>
+    <RadioGroup
+        android:id="@+id/main_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="visible"
+        android:background="#ffffff"
+        >
+        <RadioButton
+            android:id="@+id/menu_index"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/menu_rb_index"
+            android:button="@null"
+            android:gravity="bottom|center"
+            android:drawableTop="@drawable/menu_rb_index"
+            android:checked="false" />
+        <RadioButton
+            android:id="@+id/menu_review"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/menu_rb_review"
+            android:button="@null"
+            android:gravity="bottom|center"
+            android:drawableTop="@drawable/menu_rb_review"
+            android:checked="false"/>
+        <RadioButton
+            android:id="@+id/menu_setting"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/menu_rb_setting"
+            android:button="@null"
+            android:gravity="bottom|center"
+            android:drawableTop="@drawable/menu_rb_setting"
+            android:checked="false"/>
+    </RadioGroup>
+
+
+</LinearLayout>

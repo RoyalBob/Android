@@ -1,0 +1,16 @@
+#Sat Mar 18 03:06:30 CST 2017
+renamed.4=classes5.dex
+renamed.3=classes.dex
+renamed.2=classes4.dex
+renamed.1=classes2.dex
+base.4=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-async-http-1.4.5_b7619604ef06f805f41183eafb1b6892cda47b41
+renamed.0=classes3.dex
+base.3=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_97c03eac75a230007078b704ee1f07cf766403db
+base.2=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.1_698f9e7179e3fde94c6a0d0998c2e81a6bdd81b7
+base.1=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a6dc8141e881248ee52b5ef7a741734cdd6e20dd
+base.0=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.1_43057b5285f352217971490adf4b990eb0966056
+file.4=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-async-http-1.4.5_b7619604ef06f805f41183eafb1b6892cda47b41\\classes.dex
+file.3=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_97c03eac75a230007078b704ee1f07cf766403db\\classes.dex
+file.2=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.1_698f9e7179e3fde94c6a0d0998c2e81a6bdd81b7\\classes.dex
+file.1=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a6dc8141e881248ee52b5ef7a741734cdd6e20dd\\classes.dex
+file.0=D\:\\finalwork\\DormitoryApp\\MobileDormitory\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.1_43057b5285f352217971490adf4b990eb0966056\\classes.dex

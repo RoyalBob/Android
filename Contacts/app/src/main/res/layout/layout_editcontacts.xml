@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditContacts">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:src="@drawable/am"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <EditText
+        android:id="@+id/edtName"
+        android:gravity="center"
+        android:hint="请输入姓名"
+        android:singleLine="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/edtTel"
+        android:gravity="center"
+        android:hint="请输入电话"
+        android:singleLine="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/edtAddress"
+        android:gravity="center"
+        android:hint="请输入地址"
+        android:singleLine="true"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn_mok"
+        android:text="@string/btn_mok"
+        android:alpha="80"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content" />
+</LinearLayout>

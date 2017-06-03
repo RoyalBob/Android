@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/menu_floor1"
+        android:title="一楼"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menu_floor2"
+        android:title="二楼"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/menu_floor3"
+        android:title="三楼"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menu_floor4"
+        android:title="四楼"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menu_floor5"
+        android:title="五楼"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menu_floor6"
+        android:title="六楼"
+        app:showAsAction="never"
+        />
+
+</menu>

@@ -1,0 +1,1 @@
+include ':MobileDormitory', ':Sweetalert', ':ProgressWheel', 'LDrawer', 'PagerSlidingTabStrip', ':HelloCharts', ':MaterialRipple', ':ProcessButton', ':MaterialDialog'

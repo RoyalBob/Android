@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_udpSend"
+        android:title="UDP Send"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_udpReceive"
+        android:title="UDP Receive"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tcpClient"
+        android:title="TCP Client"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tcpServer"
+        android:title="TCP Server"
+        app:showAsAction="never" />
+</menu>

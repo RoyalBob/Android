@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\android_studio\android-studio\gradle\gradle-2.14.1" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HelloCharts" />
+            <option value="$PROJECT_DIR$/LDrawer" />
+            <option value="$PROJECT_DIR$/MaterialDialog" />
+            <option value="$PROJECT_DIR$/MaterialRipple" />
+            <option value="$PROJECT_DIR$/MobileDormitory" />
+            <option value="$PROJECT_DIR$/PagerSlidingTabStrip" />
+            <option value="$PROJECT_DIR$/ProcessButton" />
+            <option value="$PROJECT_DIR$/ProgressWheel" />
+            <option value="$PROJECT_DIR$/Sweetalert" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
