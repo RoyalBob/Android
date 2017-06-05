@@ -10,10 +10,7 @@ import android.text.method.HideReturnsTransformationMethod;
 import android.text.method.PasswordTransformationMethod;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.Button;
-import android.widget.CheckBox;
-import android.widget.CompoundButton;
-import android.widget.EditText;
+import android.widget.*;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -46,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
                 if(edtUserName.getText().toString().equals("admin") && edtPassword.getText().toString().equals("123456"))
                 {
+//                    Toast.makeText(MainActivity.this, "登陆成功", Toast.LENGTH_SHORT).show();
                     Snackbar.make(arg0, "登陆成功", Snackbar.LENGTH_SHORT).show();
                     if(cbRemember.isChecked())
                     {
@@ -63,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else
                 {
+//                    Toast.makeText(MainActivity.this, "登陆失败!用户名或密码错误!", Toast.LENGTH_SHORT).show();
                     Snackbar.make(arg0, "登陆失败!用户名或密码错误!", Snackbar.LENGTH_SHORT).show();
                 }
             }

@@ -22,7 +22,7 @@ public class SecondActivity extends AppCompatActivity {
 		Bundle bundle = intent.getExtras();
 		String Name = bundle.getString("Name"); 
 		
-		SecondActivity.this.setTitle("Welcome:"+Name);
+		SecondActivity.this.setTitle("欢迎光临:"+Name);
 
 		Button btn2 =(Button) findViewById(R.id.button2);
 		btn2.setOnClickListener(new View.OnClickListener() {

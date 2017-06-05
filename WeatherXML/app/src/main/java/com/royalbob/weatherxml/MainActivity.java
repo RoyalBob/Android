@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
 //			FileOutputStream fos = new FileOutputStream(saveFile);
 //			fos.write(xml.getBytes("UTF-8"));
 //		} catch (Exception e) {
+//          //TODO Auto-generated catch block
 //			e.printStackTrace();
 //		}  //序列化
     }

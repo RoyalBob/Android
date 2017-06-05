@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         Sqlite.initDatabase(this);
         final List<Map<String,String>> ListItems = new ArrayList<Map<String,String>>();
         final EditText edtName = (EditText) findViewById(R.id.edtName);

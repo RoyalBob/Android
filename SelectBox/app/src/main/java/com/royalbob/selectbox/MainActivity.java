@@ -67,4 +67,10 @@ public class MainActivity extends AppCompatActivity {
         Snackbar snackbar = Snackbar.make(view, str, Toast.LENGTH_SHORT);
         snackbar.show();
     }
+
+/*    public void DisplayToast(String str)
+    {
+        Toast toast = Toast.makeText(this, str, Toast.LENGTH_SHORT);
+        toast.show();
+    }*/
 }
