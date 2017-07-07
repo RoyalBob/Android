@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_manage) {
 
         } else if (id == R.id.nav_share) {
-            Intent intent = new Intent (MainActivity.this,SecondActivity.class);
+            Intent intent = new Intent (MainActivity.this, SecondActivity.class);
             intent.putExtra("Name", "2222222222222222");
             startActivity(intent);
             overridePendingTransition(R.anim.enter,R.anim.exit );

@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 textview1.setText(String.valueOf(msg.obj));
             }
         };
+
     }
 
     class MyThread extends Thread
