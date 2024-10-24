@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="29dp"
-        android:text="第二页" />
+        android:text="@string/page2" />
 
     <EditText
         android:id="@+id/edtName"
@@ -26,6 +26,6 @@
         android:gravity="center"
         android:layout_marginTop="25dp"
         android:ems="10"
-        android:hint="请输入您的姓名" />
+        android:hint="@string/inputName" />
 
 </RelativeLayout>

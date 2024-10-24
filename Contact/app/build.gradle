@@ -2,11 +2,11 @@ apply plugin: 'com.android.application'
 
 android {
     namespace "com.contact.royalbob.contact"
-    compileSdk 24
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.contact.royalbob.contact"
-        minSdkVersion 24
+        minSdkVersion 31
         targetSdkVersion 34
         versionCode 1
         versionName "1.0"
