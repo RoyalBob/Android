@@ -1,5 +1,6 @@
 package com.royalbob.httpurlconnectiontest;
 
+import android.annotation.SuppressLint;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
@@ -44,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
     String param = "tel=13291921791";
     String str = "";
 
+    @SuppressLint("HandlerLeak")
     private Handler handler = new Handler(){
 
         public void handleMessage(Message msg) {
